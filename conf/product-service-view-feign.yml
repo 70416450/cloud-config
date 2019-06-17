@@ -19,7 +19,7 @@ spring:
     mode: HTML5
     servlet:
       content-type: text/html
-version: springcloud version 1.1
+version: springcloud version 1.2
 ---
 server:
   port: 8021
@@ -37,4 +37,4 @@ spring:
     mode: HTML5
     servlet:
       content-type: text/html
-version: springcloud version 1.1
+version: springcloud version 1.2
